@@ -73,4 +73,4 @@ Ce TP a permis une première approche pratique de Jetpack Compose, montrant comm
 
 ## Captures d'écran
 
-*Note: Des captures d'écran de l'application en fonctionnement peuvent être ajoutées ici.*
+![image](https://github.com/user-attachments/assets/50aabf4b-7df1-4def-99e2-29ff38d6e30e)
